@@ -1,6 +1,6 @@
-### Hi there! I'm Alex Caron 👋
+### Hello! I'm Alex Caron 👋
 
-- :jigsaw: Software engineer with a background in learning design
+- Software engineer with expertise in learning design and education
 - 💬 Reach me at alex.caron@gmail.com
 - <a href="https://linkedin.com/in/alexcaron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexcaron" height="12" width="16" /></a> Connect with me at <a href="https://linkedin.com/in/alexcaron" target="blank">linkedin.com/in/alexcaron</a>
 - 😄 Pronouns: he/him
